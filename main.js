@@ -1,6 +1,6 @@
 const api = {
     //u can get your key by login at https://openweathermap.org/ //
-    key: "your api key",
+    key: "55d27e475fa6b1bdfe7769ee2a1edec8",
     base: "https://api.openweathermap.org/data/2.5/"
   }
   
