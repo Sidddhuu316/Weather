@@ -4,7 +4,7 @@
 
 🌐https://sidddhuu316.github.io/Weather/
 
-# Snapshort
+# Snapshot
 
 <img width="288" alt="image" src="https://user-images.githubusercontent.com/106863450/194647879-d57aa495-6285-495c-9e21-3b1675f479a8.png">
 
